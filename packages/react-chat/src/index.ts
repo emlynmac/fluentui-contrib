@@ -1,4 +1,9 @@
-export { Chat, ChatMessage, ChatMyMessage } from './components';
+export {
+  Chat,
+  ChatMessage,
+  ChatMyMessage,
+  EditableChatMyMessage,
+} from './components';
 export type {
   ChatMessageProps,
   ChatMyMessageProps,

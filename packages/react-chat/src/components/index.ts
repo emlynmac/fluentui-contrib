@@ -26,3 +26,5 @@ export type {
   ChatMyMessageSlots,
   ChatMyMessageState,
 } from './ChatMyMessage';
+
+export { EditableChatMyMessage } from './EditableChatMyMessage';
